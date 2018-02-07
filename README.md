@@ -3,9 +3,11 @@ Form Login untuk Aplikasi Android.
 > Kami telah membuat beberapa template form login untuk memudahkan Anda dalam membangun website.
 
 # Screenshot
-Menu Utama
-
-<img src="https://github.com/bagi-code/android-login/blob/master/menu_utama.png" width="200" height="320"/> <img src="https://github.com/bagi-code/android-login/blob/master/login_one.png" width="200" height="320"/>
+Beberapa Screenshot Aplikasi.
+> Menu Utama
+<img src="https://github.com/bagi-code/android-login/blob/master/menu_utama.png" width="200" height="320"/> 
+> Template Form Login
+<img src="https://github.com/bagi-code/android-login/blob/master/login_one.png" width="200" height="320"/>
  
 ![alt text](https://github.com/bagi-code/android-login/blob/master/menu_utama.png "Optional title")
 
